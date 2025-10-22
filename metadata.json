@@ -1,0 +1,8 @@
+
+{
+  "name": "EchoNote - AI Meeting Assistant",
+  "description": "An AI-powered meeting assistant that transcribes meetings in real time, summarizes key points and action items, and organizes all notes into workspaces and folders for easy recall.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
